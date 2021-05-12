@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SortingSim
+comment1.params=x
+comment1.target=int\ insertionSort(java.util.ArrayList)
+comment2.params=x
+comment2.target=int\ selectionSort(java.util.ArrayList)
+comment3.params=x
+comment3.target=int\ bubbleSort(java.util.ArrayList)
+comment4.params=
+comment4.target=void\ simulationOne()
+comment5.params=
+comment5.target=void\ simulationTwo()
+numComments=6
